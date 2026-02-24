@@ -1,2 +1,2 @@
-# My-python-project-ciphertext-fcc-
+# My-python-project-ciphertext-fcc
 basic python algorithm
